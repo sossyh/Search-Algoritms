@@ -1,6 +1,6 @@
 # Search-Algoritms
 Artificial intelligence Assignment
-"/n"
+
 
 
 
