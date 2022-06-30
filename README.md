@@ -5,4 +5,4 @@ Artificial intelligence Assignment
 
 
 
-BFS, DFS, Djkstra algorithm, and Heuristic search algorithms.
+BFS, DFS, Djkstra, and Heuristic search algorithms.
