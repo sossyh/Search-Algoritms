@@ -78,7 +78,7 @@ def breadth_first_search(graph,start):
         print("required time for breadth first search =",time_required ,"X 10^-4 second")
         print("\n")
         
-def depth_first_search(graph,start_node):
+def depth_first_search(graph,start):
         start_time=time()*10000
         path=[]
         visited=set()        #inorder to have unrepeated visited nodes
